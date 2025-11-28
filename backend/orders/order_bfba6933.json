@@ -1,0 +1,84 @@
+{
+  "order_id": "bfba6933",
+  "timestamp": "2025-11-28T02:28:06.934943Z",
+  "total": 797.0,
+  "customer_name": "Sandeep",
+  "address": "sector p seven",
+  "status": "delivered",
+  "created_at": "2025-11-28 02:28:06",
+  "updated_at": "2025-11-28 02:28:27",
+  "items": [
+    {
+      "id": 4,
+      "order_id": "bfba6933",
+      "item_id": "milk-amul-1l",
+      "name": "Amul Taaza Milk",
+      "unit_price": 72.0,
+      "quantity": 1,
+      "notes": ""
+    },
+    {
+      "id": 5,
+      "order_id": "bfba6933",
+      "item_id": "tea-250g",
+      "name": "Red Label Tea",
+      "unit_price": 140.0,
+      "quantity": 1,
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "order_id": "bfba6933",
+      "item_id": "sugar-1kg",
+      "name": "Madhur Sugar",
+      "unit_price": 60.0,
+      "quantity": 1,
+      "notes": ""
+    },
+    {
+      "id": 7,
+      "order_id": "bfba6933",
+      "item_id": "potato-1kg",
+      "name": "Fresh Potatoes",
+      "unit_price": 40.0,
+      "quantity": 1,
+      "notes": "1 kilo potato"
+    },
+    {
+      "id": 8,
+      "order_id": "bfba6933",
+      "item_id": "onion-1kg",
+      "name": "Fresh Onions",
+      "unit_price": 55.0,
+      "quantity": 1,
+      "notes": "1 kilo onion"
+    },
+    {
+      "id": 9,
+      "order_id": "bfba6933",
+      "item_id": "coffee-nescafe-50g",
+      "name": "Nescafe Classic",
+      "unit_price": 150.0,
+      "quantity": 2,
+      "notes": "Nescafe Classic coffee"
+    },
+    {
+      "id": 10,
+      "order_id": "bfba6933",
+      "item_id": "banana-1dozen",
+      "name": "Fresh Bananas (1 dozen)",
+      "unit_price": 60.0,
+      "quantity": 1,
+      "notes": "one dozen of banana"
+    },
+    {
+      "id": 11,
+      "order_id": "bfba6933",
+      "item_id": "biscuits-marie",
+      "name": "Britannia Marie Gold",
+      "unit_price": 35.0,
+      "quantity": 2,
+      "notes": "Britannia Marie Gold"
+    }
+  ]
+}
